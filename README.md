@@ -1,7 +1,7 @@
 
 # Pretrained  XFeat(Accelerated Features for Lightweight Image Matching) MATLAB Model
 
-使用导入的onnx模型做任意同大小分辨率的图像做半稠密匹配推理（semi\-Dense matching），较前沿的端到端直接匹配方法[^1]。可以应用到多个领域，增强现实，三维重建与建图，全景拼接，图像检索，医学影像分析等等。
+使用导入的ONNX模型，对任意相同大小分辨率的图像进行半稠密匹配推理（semi-dense matching），这是一种较为前沿的端到端直接匹配方法[^1]。该方法广泛应用于多个领域，包括增强现实、三维重建与建图、全景拼接、图像检索以及医学影像分析等。
 
 ## Requirements
 
